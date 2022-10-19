@@ -7,15 +7,22 @@
 |![GitHub stats](https://github-readme-stats.vercel.app/api?username=Suzuco&show_icons=true)|![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Suzuco&layout=compact)|
 |---|---|
 
-{ openSUSE, FreeBSD };
+#### Distro/OS of choice
 
-{ zh_CN, ja_JP, en_US };
+0. openSUSE
+1. FreeBSD
+
+#### Languages spoken
+
+ - zh_CN
+ - ja_JP
+ - en_US
 
 #### tabs vs spaces
 
 `\t` only for JS, HTML, CSS and similar web-related objects, also for C sometimes
 
-`&nbsp;&nbsp;&nbsp;&nbsp;` for others, especially Python and YAML
+`    ` for others, especially Python and YAML
 
 #### vim vs emacs
 
