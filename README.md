@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Suzuco/Suzuco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    #define CPP
+    #define C
+    import Python
 
-Here are some ideas to get you started:
+|![GitHub stats](https://github-readme-stats.vercel.app/api?username=Suzuco&show_icons=true)|![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Suzuco&layout=compact)|
+|---|---|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{ openSUSE, FreeBSD };
+
+{ zh_CN, ja_JP, en_US };
+
+#### tabs vs spaces
+
+`\t` only for JS, HTML, CSS and similar web-related objects, also for C sometimes
+
+`&nbsp;&nbsp;&nbsp;&nbsp;` for others, especially Python and YAML
+
+#### vim vs emacs
+
+`vim`, `:wq`
