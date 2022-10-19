@@ -22,7 +22,7 @@
 
 `\t` only for JS, HTML, CSS and similar web-related objects, also for C sometimes
 
-`    ` for others, especially Python and YAML
+<code>&nbsp; &nbsp; </code> for others, especially Python and YAML
 
 #### vim vs emacs
 
